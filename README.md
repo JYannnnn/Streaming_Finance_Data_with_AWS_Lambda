@@ -71,10 +71,10 @@ def lambda_handler(event, context):
         'body': json.dumps(f'Done! Recorded: {as_jsonstr}')
     }
 ```
-#### Lambda Function URL (DataCollector):
+#### AWS Lambda Function URL:
 - https://0b461p8c6d.execute-api.us-east-2.amazonaws.com/default/data-collector
 
-#### Data Collector AWS Lambda Configuration Page:
+#### AWS Lambda Configuration Page:
 <img width="1541" alt="Screen Shot 2020-05-25 at 1 02 46 PM" src="https://user-images.githubusercontent.com/60801548/82832080-231c0080-9e88-11ea-9fe0-f2d33c4c12d7.png">
 
 
