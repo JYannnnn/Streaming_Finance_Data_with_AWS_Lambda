@@ -97,6 +97,9 @@ ON T1.Company = T2.name AND T1.high = T2.High_Stock_Price AND T1.Hour = T2.hour)
 ORDER BY Company, Hour, DateTime
 ```
 
+### Extra Credit: Data Visualizations
+- Output: Analysis.ipynb
+
 
 
 
